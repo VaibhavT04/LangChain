@@ -4,4 +4,6 @@ ipykernel
 langchain_community
 pypdf
 bs4
+langchain_text_splitters
 wikipedia
+faiss-cpu
